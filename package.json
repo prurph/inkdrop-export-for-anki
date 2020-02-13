@@ -1,0 +1,17 @@
+{
+  "name": "inkdrop-export-for-anki",
+  "main": "./lib/inkdrop-export-for-anki",
+  "version": "0.0.1",
+  "description": "Export Inkdrop notes for import into Anki",
+  "keywords": [],
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+    "csv": "^5.3.1",
+    "fs-extra": "^8.1.0",
+    "inkdrop-export-utils": "^2.3.1"
+  }
+}
